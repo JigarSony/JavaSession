@@ -2,7 +2,7 @@ package interfaceConcept;
 
 public interface USBank {
 	
-	//In interface no method body , only method defination,protptype method
+	//In interface no method body , only method definition, phototype method
 	 int min_bal = 100;
 	public void credit();
 	
@@ -13,8 +13,8 @@ public interface USBank {
 	//only method declaration
 	//no method body
 	//only method prototype
-	//in interface we can declare the variables, vars are by default static in nature 
-	//vars value will not changed , it's final/const in nature
+	//in interface we can declare the variables, variables are by default static in nature 
+	//variables value will not changed , it's final/constant in nature
 	//no static method in interface
 	//no main method in interface
 	//we can not create object of an Interface

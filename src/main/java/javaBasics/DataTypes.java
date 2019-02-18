@@ -37,6 +37,7 @@ public class DataTypes {
 		System.out.println(e);
 		
 		//String is class
+		//non primitive data types
 		
 		//5. String
 		String str = "Hi";

@@ -1,7 +1,13 @@
 package counstructorConcept;
 
 public class ConstructorConcept {
-	
+	/*
+	 * Constructor is nothing just function 
+	 * but it never return the value
+	 * Constructor name is same as class name
+	 * can not create in method
+	 * TO call Constructor need to create object
+	 */
 	/*
 	 * Constructor: is class entity which is used to define some class feature
 	 * while creating objects

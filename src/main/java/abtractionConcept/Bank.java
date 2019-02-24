@@ -4,6 +4,9 @@ public abstract class Bank {
 	
 	//both abstract class and interface are use to archive abstraction
 	
+	//abstract doesn't provide any business logic
+	//abstract provide only feature/overview
+	
 	/*
 	 * IN abstract class put abstract keyword to define abstract class
 	 * In this class at least one method should be there

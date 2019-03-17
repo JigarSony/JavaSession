@@ -1,0 +1,20 @@
+https://www.youtube.com/watch?v=5nNTafzmX9o
+In C/C++ Access Specifiers
+
+In Java We have Access Modifiers
+
+This Are::
+
+Abstract
+Final
+Public
+Private
+Protected
+Default
+
+Class :: we can use only Final Abstract and public with class
+In Inner class you can use Private
+
+
+class A(){} ::By default --- default is Access
+public class B(){}

@@ -1,6 +1,6 @@
-.idea
-.setting
-target
+.idea/
+.setting/
+target/
 .classpath
 .project
 JavaPractice.iml

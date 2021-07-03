@@ -43,9 +43,24 @@ public class TestCar {
 		//only by access compile time polymorphism
 		
 		//Down Casting : not allowed
-		//BMW b1 = (BMW) new Car(); //casting into BMW class
+		//BMW b1 = (BMW) new A1Car(); //casting into BMW class
 		//gives Class Cast Exception
 	}
+
+	/**
+	 * BMW--Start
+	 * A1Car --- Stop
+	 * A1Car --- Refuel
+	 * BMW--thesafety
+	 * Vehicle --- engine
+	 * *****
+	 * A1Car --- Start
+	 * A1Car --- Stop
+	 * A1Car --- Refuel
+	 * BMW--Start
+	 * A1Car --- Stop
+	 * A1Car --- Refuel
+	 */
 
 }
  

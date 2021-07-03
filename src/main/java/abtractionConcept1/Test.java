@@ -27,3 +27,9 @@ public class Test extends Shape{
 	}
 
 }
+
+/**
+ * output:
+ * Shape class constructor
+ * Test class constructor
+ */

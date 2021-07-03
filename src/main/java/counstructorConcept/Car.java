@@ -8,6 +8,7 @@ public class Car {
 	String engine;
 
 	public Car(String name, String modelNumber, int price, String engine) {
+		//this.class variable = local variable
 		this.name = name;
 		this.modelNumber = modelNumber;
 		this.price = price;
@@ -24,5 +25,9 @@ public class Car {
 		System.out.println(obj2.name +" "+obj2.modelNumber+" "+ obj2.price+" "+obj2.engine );
 		System.out.println(obj3.name +" "+obj3.modelNumber+" "+ obj3.price+" "+obj3.engine );
 	}
-
+	/**
+	 * BMW 350Z 10 AMT
+	 * Audi A8 20 AMT
+	 * Honda Civic 5 Manual
+	 */
 }

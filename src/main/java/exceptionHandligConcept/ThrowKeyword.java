@@ -6,7 +6,7 @@ public class ThrowKeyword {
 		/*
 		 * What is throw?
 		 * What is different between throws and throw?
-		 * THrow an exception deliberately - custom exception
+		 * Throw an exception deliberately - custom exception
 		 * some time happen that some exception not in java
 		 * so you can create the exception
 		 * by throw keyword 

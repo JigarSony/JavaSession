@@ -34,4 +34,11 @@ public class FinalizeConcept {
 		System.out.println("finalize method");
 	}
 
+	/*Finalize : is some thing related to the garbage collector
+	 * use to perform the clean up memory processing
+	 * like inside the memory there are lot of garbage is there lot of objects are there
+	 * it doesn't have any references
+	 * just before we're calling garbage collector if you're declare that particular method
+	 * as a Finalize - it will start cleaning of the process
+	 */
 }

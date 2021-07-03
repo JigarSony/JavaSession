@@ -9,14 +9,14 @@ public class Car extends Vehicle{
 	//Multiple(A,B is parent ,C is child of A and B),Hybrid(A<-B,A<-C,B<-D,C<-D) - through interface
 
 	public void start() {
-		System.out.println("Car --- Start");
+		System.out.println("A1Car --- Start");
 	}
 	
 	public void stop() {
-		System.out.println("Car --- Stop");
+		System.out.println("A1Car --- Stop");
 	}
 	
 	public void refuel() {
-		System.out.println("Car --- Refuel");
+		System.out.println("A1Car --- Refuel");
 	}
 }

@@ -17,7 +17,7 @@ public class ThrowsKeyword {
 	 * JVM will accept the particular exception
 	 * Program will terminated
 	 * Unable to print own message
-	 * JVm will print print stack some message
+	 * JVM will print print stack some message
 	 */
 	
 //	public void sum() throws ArithmeticException{

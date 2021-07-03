@@ -62,4 +62,8 @@ public abstract class Bank {
 	/*
 	 * Performance wise abstract class is faster than interface
 	 */
+
+	//Bank b1 = new Bank();
+	//not allowed
+	//cannot create the object of abstract class
 }

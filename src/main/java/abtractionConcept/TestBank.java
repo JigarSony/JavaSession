@@ -25,8 +25,18 @@ public class TestBank {
 		//Bank b1 = new Bank();
 		//not allowed
 		//cannot create the object of abstract class
-		
-		
+
+		/**
+		 * output:
+		 * Bank -- credit
+		 * Bank -- debit
+		 * HDFC -- Loan Method
+		 * HDFC -- Funds
+		 * Bank -- debit
+		 * Bank -- credit
+		 * HDFC -- Loan Method
+		 */
+
 	}
 
 }

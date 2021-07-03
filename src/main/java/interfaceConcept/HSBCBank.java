@@ -25,7 +25,7 @@ public class HSBCBank implements USBank,BrazilBank{//we are achieving multiple i
 	}
 
 	public void carLoan() {
-		System.out.println("HSBC -- Car Loan");
+		System.out.println("HSBC -- A1Car Loan");
 	}
 
 	//overriding from brazil bank method

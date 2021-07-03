@@ -76,5 +76,47 @@ public class ArrayListIteration {
 		}
 		
 	}
-
+	/**
+	 * --------Print using Lambda function-----------
+	 * Game of Thrones
+	 * Breaking Bad
+	 * The big bang Theory
+	 * The Walking Dead
+	 * Prison Break
+	 * ----------Print using iterator--------------
+	 * Game of Thrones
+	 * Breaking Bad
+	 * The big bang Theory
+	 * The Walking Dead
+	 * Prison Break
+	 * ----------iterator and java 8 forEachRemaining() method--------------
+	 * Game of Thrones
+	 * Breaking Bad
+	 * The big bang Theory
+	 * The Walking Dead
+	 * Prison Break
+	 * ----------Print using forEachloop--------------
+	 * Game of Thrones
+	 * Breaking Bad
+	 * The big bang Theory
+	 * The Walking Dead
+	 * Prison Break
+	 * ----------Print using forloop--------------
+	 * Game of Thrones
+	 * Breaking Bad
+	 * The big bang Theory
+	 * The Walking Dead
+	 * Prison Break
+	 * ------Print using List Iterator
+	 * Prison Break
+	 * The Walking Dead
+	 * The big bang Theory
+	 * Breaking Bad
+	 * Game of Thrones
+	 * Game of Thrones
+	 * Breaking Bad
+	 * The big bang Theory
+	 * The Walking Dead
+	 * Prison Break
+	 */
 }

@@ -65,5 +65,12 @@ public class ConstructorConcept {
 		 * but blank o/p : no o/p
 		 */
 	}
-
+	/**
+	 * default constructor
+	 * Single param constructor
+	 * The value if i 10
+	 * two param constructor
+	 * The value if i 10
+	 * The value if j 20
+	 */
 }

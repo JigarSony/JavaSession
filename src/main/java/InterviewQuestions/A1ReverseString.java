@@ -23,7 +23,7 @@ public class A1ReverseString {
         System.out.println(rev);
 
 
-        //2. using Strinf buffer
+        //2. using String buffer
 
         StringBuffer sf = new StringBuffer(s);
         System.out.println(sf.reverse());

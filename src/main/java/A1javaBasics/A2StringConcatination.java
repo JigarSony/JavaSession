@@ -6,7 +6,7 @@ public class A2StringConcatination {
 		
 		//+: is concatination operator
 		
-		//println:is use to print on console with anew line
+		//println:is use to print on console with a new line
 		
 		//print:is just use to on the console
 
@@ -36,7 +36,7 @@ public class A2StringConcatination {
 		
 		System.out.println(a);//100
 		
-		System.out.println("The value oa a:"+a);//The value oa a:100
+		System.out.println("The value of a:"+a);//The value of a:100
 		
 		System.out.println("The Addition of A and B is"+(a+b));//The Addition of A and B is300
 	}
